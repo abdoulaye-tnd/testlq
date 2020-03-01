@@ -26,7 +26,7 @@ Essa área foi criada para centralizar todo o conhecimento adquirido por meio do
 
 As informações estão catalogadas por tecnologia e por determinados temas como:
 
-- Linguagens de Programação
+- Abdoulaye Tobi lalalalla
 - Desenvolvimento web (Backend e Frontend)
 - Servidores web
 - Banco de Dados
