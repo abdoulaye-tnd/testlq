@@ -41,6 +41,17 @@ logo:                  /assets/icons/icon.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 # Duplication is necessary due to the `jekyll-feed`, `jekyll-seo-tag` plugin.
+
+menu:
+  - title: Blog
+    url:   /Contact/
+  - title: Projets
+    url:   /projets/
+  - title: Resume
+    url:   /Study_notes/
+  - title: About
+    url:   /Services/
+    
 author:
   name:                Gilson Filho
   email:               me@gilsondev.in
