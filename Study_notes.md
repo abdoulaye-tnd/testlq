@@ -24,13 +24,20 @@ Here you can find a list of books that I have read and the notes that I have tak
 
 ##Analyse & Résumé
 
-- As a man thinketh by James Allen
+- <a href="{{ site.baseurl }}/pdfs/resume_online.pdf" target="_blank">As a man thinketh by James Allen</a>.
 - Habit by William James
 - How to stop worrying and start living by Dale Carnegie
 - Influencing human behavior by Harry Overstreet
 - The Law of Success in Sixteen Lessons by Napoleon Hill
 - The Magic of Thinking Big by David Schwartz
 - Think and grow rich by Napoleon Hill
-
+* [Динамика твёрдого тела и систем твёрдых тел](/_posts/2012-03-27-django-testes-unitarios-views-com-login-required)
+* [Технологии и языки программирования](/pages/python/main)
+* [Компьютерная графика](/pages/graphics/main)
+* [Компьютерный практикум по механике](/pages/matlab/main)
+* [Информатика](/pages/informatics/main)
+* [Управление ИТ-сервисом и контентом](/pages/it/main)
+* Интегрированные математические пакеты
+* [Базы данных](/pages/databases/main)
 
 [http://commonplace.gilsondev.in/](http://commonplace.gilsondev.in/)
