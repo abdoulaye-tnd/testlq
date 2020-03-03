@@ -12,28 +12,25 @@ description: >
   Essa página descreve aonde centralizo os meus aprendizados além do Blog
 
 # You can show the description on the page by deleting this line:
-hide_description: true
+hide_description: false
 
 # Setting `menu` will generate an entry in the sidebar.
 menu: true
 ---
 
-## Gilson #DEV Commonplace
+## Book notes
 
-[![Screenshot do site](/assets/img/screenshot_commonplace.png)](http://commonplace.gilsondev.in/)
+Here you can find a list of books that I have read and the notes that I have taken during the process. They are meant to be concise and to highlight the in my opinion most important aspects of the book. But, they may not reflect my own opinion.
 
-Essa área foi criada para centralizar todo o conhecimento adquirido por meio dos estudos, side projects, provas de conceitos e também com a experiência adquirida durante a carreira de desenvolvimento. Com isso, posso consultar quando for necessário.
+##Analyse & Résumé
 
-As informações estão catalogadas por tecnologia e por determinados temas como:
+- As a man thinketh by James Allen
+- Habit by William James
+- How to stop worrying and start living by Dale Carnegie
+- Influencing human behavior by Harry Overstreet
+- The Law of Success in Sixteen Lessons by Napoleon Hill
+- The Magic of Thinking Big by David Schwartz
+- Think and grow rich by Napoleon Hill
 
-- Abdoulaye Tobi lalalalla
-- Desenvolvimento web (Backend e Frontend)
-- Servidores web
-- Banco de Dados
-- Coleta de dados
-- Análise de dados
-- entre outros
-
-Então, caso tenha alguma informação que precise, talvez lá tenha e possa te ajudar. E se tem alguma interessante para compartilhar, mande um comentário ou acesse o chat para trocarmos uma idéia.
 
 [http://commonplace.gilsondev.in/](http://commonplace.gilsondev.in/)
