@@ -31,7 +31,7 @@ Here you can find a list of books that I have read and the notes that I have tak
 - The Law of Success in Sixteen Lessons by Napoleon Hill
 - The Magic of Thinking Big by David Schwartz
 - Think and grow rich by Napoleon Hill
-* [As a man thinketh by James Allen]({{ site.baseurl }}/_posts/2012-03-27-django-testes-unitarios-views-com-login-required)
+* [As a man thinketh by James Allen]({{ site.baseurl }}/pages/test)
 * [Технологии и языки программирования](/pages/python/main)
 * [Компьютерная графика](/pages/graphics/main)
 * [Компьютерный практикум по механике](/pages/matlab/main
