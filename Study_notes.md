@@ -12,7 +12,7 @@ description: >
   Essa página descreve aonde centralizo os meus aprendizados além do Blog
 
 # You can show the description on the page by deleting this line:
-hide_description: false
+hide_description: true
 
 # Setting `menu` will generate an entry in the sidebar.
 menu: true
@@ -22,7 +22,7 @@ menu: true
 
 Here you can find a list of books that I have read and the notes that I have taken during the process. They are meant to be concise and to highlight the in my opinion most important aspects of the book. But, they may not reflect my own opinion.
 
-##Analyse & Résumé
+## Analyse & Résumé
 
 - <a href="{{ site.baseurl }}/pdfs/resume_online.pdf" target="_blank">As a man thinketh by James Allen</a>.
 - Habit by William James
