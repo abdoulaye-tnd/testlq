@@ -9,18 +9,14 @@ title: Study_Notes
 # Write a short (~150 characters) description of each blog post.
 # This description is used to preview the page on search engines, social media, etc.
 description: >
-  Essa página descreve aonde centralizo os meus aprendizados além do Blog
+  Here you can find a list of books that I have read and the notes that I have taken during the process. They are meant to be concise and to highlight the in my opinion most important aspects of the book. But, they may not reflect my own opinion.
 
 # You can show the description on the page by deleting this line:
-hide_description: true
+hide_description: false
 
 # Setting `menu` will generate an entry in the sidebar.
 menu: true
 ---
-
-## Book notes
-
-Here you can find a list of books that I have read and the notes that I have taken during the process. They are meant to be concise and to highlight the in my opinion most important aspects of the book. But, they may not reflect my own opinion.
 
 ## Analyse & Résumé
 
