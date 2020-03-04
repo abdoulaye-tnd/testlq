@@ -1,7 +1,7 @@
 ---
 # This page uses Hydejack's `about` layout, which shows the primary author's picture and about text at the top.
 # You can change it to the regular `page` layout if you want.
-layout: about
+layout: page
 
 # The title of the page.
 title: Study_Notes
@@ -32,12 +32,5 @@ Here you can find a list of books that I have read and the notes that I have tak
 - The Magic of Thinking Big by David Schwartz
 - Think and grow rich by Napoleon Hill
 * [As a man thinketh by James Allen]({{ site.baseurl }}/pages/test)
-* [Технологии и языки программирования](/pages/python/main)
-* [Компьютерная графика](/pages/graphics/main)
-* [Компьютерный практикум по механике](/pages/matlab/main
-* [Информатика](/pages/informatics/main)
-* [Управление ИТ-сервисом и контентом](/pages/it/main)
-* Интегрированные математические пакеты
-* [Базы данных](/pages/databases/main)
 
 [http://commonplace.gilsondev.in/](http://commonplace.gilsondev.in/)
