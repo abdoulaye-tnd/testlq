@@ -4,7 +4,7 @@
 layout: page
 
 # The title of the page.
-title: Study_Notes
+title: Study Notes
 
 # Write a short (~150 characters) description of each blog post.
 # This description is used to preview the page on search engines, social media, etc.
